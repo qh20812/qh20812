@@ -1,4 +1,6 @@
 # 👋 Hello! I'm Huynh Ngoc Qui 🚀
+
+🇻🇳 [Tiếng Việt](./README.md)
 ```javascript
 // Fullstack Web Developer crafting scalable, user-centric web applications
 const developer = {
@@ -39,7 +41,7 @@ const developer = {
 print("Let's build the future of web together! 🚧")
 ```
 
-**See more: Visit my personal Portfolio or featured Repos to explore my projects!**
+**See more: Visit [Portfolio Website](https://qh20812.github.io/qh20812) or featured Repos to explore my projects!**
 
 ---
 

@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Huỳnh Ngọc Quí - Portfolio</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      background: linear-gradient(135deg, #1a1a1a, #2c3e50);
+      color: #fff;
+      text-align: center;
+      padding: 50px;
+      margin: 0;
+    }
+    .portfolio-container {
+      max-width: 800px;
+      margin: 0 auto;
+      animation: fadeIn 2s ease-in-out;
+    }
+    h1 {
+      font-size: 2.5em;
+      animation: slideIn 1s ease-out;
+    }
+    .tech-stack span {
+      display: inline-block;
+      margin: 10px;
+      padding: 8px 15px;
+      background: #007bff;
+      border-radius: 20px;
+      transition: transform 0.3s ease;
+    }
+    .tech-stack span:hover {
+      transform: scale(1.1);
+    }
+    .projects {
+      margin: 30px 0;
+    }
+    .project-card {
+      background: rgba(255, 255, 255, 0.1);
+      border-radius: 10px;
+      padding: 20px;
+      margin: 15px 0;
+      backdrop-filter: blur(10px);
+      transition: transform 0.3s ease;
+    }
+    .project-card:hover {
+      transform: translateY(-5px);
+    }
+    .project-card h3 {
+      color: #00ff88;
+      margin-bottom: 10px;
+    }
+    .contact-links a {
+      color: #00ff88;
+      text-decoration: none;
+      margin: 0 15px;
+      font-size: 1.1em;
+      transition: color 0.3s ease;
+    }
+    .contact-links a:hover {
+      color: #007bff;
+    }
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(-20px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    @keyframes slideIn {
+      from { transform: translateX(-50px); opacity: 0; }
+      to { transform: translateX(0); opacity: 1; }
+    }
+  </style>
+</head>
+<body>
+  <div class="portfolio-container">
+    <h1>👋 Xin chào! Tôi là Huỳnh Ngọc Quí</h1>
+    <p>💻 Fullstack Web Developer | Building scalable & user-friendly web apps</p>
+    
+    <div class="tech-stack">
+      <span>React</span>
+      <span>Node.js</span>
+      <span>ASP.NET Core</span>
+      <span>Tailwind CSS</span>
+      <span>Python</span>
+      <span>MongoDB</span>
+      <span>Vue</span>
+    </div>
+
+    <div class="projects">
+      <h2>🛠️ Dự án nổi bật</h2>
+      
+      <div class="project-card">
+        <h3>🚌 BusTicket System</h3>
+        <p>Hệ thống đặt vé xe khách trực tuyến được xây dựng bằng ASP.NET Core với giao diện hiện đại và API RESTful.</p>
+        <a href="https://github.com/qh20812/BusTicket.git" style="color: #00ff88;">Xem dự án →</a>
+      </div>
+
+      <div class="project-card">
+        <h3>💬 FriendChat</h3>
+        <p>Mạng xã hội nhắn tin thời gian thực, hỗ trợ chat cá nhân/nhóm, đăng bài, tương tác, quản lý bạn bè, thông báo real-time, shop, đa ngôn ngữ.</p>
+        <a href="https://github.com/qh20812/friend-chat.git" style="color: #00ff88;">Xem dự án →</a>
+      </div>
+    </div>
+
+    <div class="contact-links">
+      <p>🌟 Kết nối với tôi:</p>
+      <a href="https://github.com/qh20812">GitHub</a>
+      <a href="mailto:qh20812@gmail.com">Email</a>
+    </div>
+
+    <p style="margin-top: 40px; font-style: italic;">
+      "Building seamless digital experiences with clean code & modern design 🌟"
+    </p>
+  </div>
+</body>
+</html>

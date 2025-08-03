@@ -43,4 +43,4 @@ const developer = {
 print("Let's build the future of web together! 🚧")
 ```
 
-**Xem thêm: Ghé thăm Portfolio cá nhân hoặc các Repos nổi bật để khám phá các dự án của tôi!**
+**Xem thêm: Ghé thăm [Portfolio Website](https://qh20812.github.io/qh20812) hoặc các Repos nổi bật để khám phá các dự án của tôi!**
