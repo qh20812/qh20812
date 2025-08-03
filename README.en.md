@@ -1,4 +1,4 @@
-# 👋 Hello! I'm [Your Name] 🚀
+# 👋 Hello! I'm Huynh Ngoc Qui 🚀
 ```javascript
 // Fullstack Web Developer crafting scalable, user-centric web applications
 const developer = {

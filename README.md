@@ -1,10 +1,10 @@
-# 👋 Xin chào! Tôi là [Tên của bạn] 🚀
+# 👋 Xin chào! Tôi là Huỳnh Ngọc Quí 🚀
 
 🇬🇧 [English](./README.en.md)
 ```javascript
 // Fullstack Web Developer crafting scalable, user-centric web applications
 const developer = {
-  name: "Huynh Ngoc Qui",
+  name: "Huỳnh Ngọc Quí",
   role: "Fullstack Web Developer",
   techStack: ["JavaScript", "React", "Node.js", "ASP.NET Core", "Python", "Tailwind CSS", "MongoDB", "SQL"],
   mission: "Building seamless digital experiences with clean code & modern design 🌟",
