@@ -17,7 +17,7 @@ const developer = {
 * [BusTicket System](https://github.com/qh20812/BusTicket.git): Online bus ticket booking system built with ASP.NET Core.
 * [FriendChat](https://github.com/qh20812/friend-chat.git): Real-time social messaging app supporting personal/group chat, posts, interactions, friend management, real-time notifications, shop, multi-language, and many advanced features.
 ### 🔍 Passion: Performance optimization, intuitive UI/UX design, and adopting new technologies.
-### 📚 Education: [IT student at University X / Self-taught through real projects].
+### 📚 Education: Student at VTC Academy.
 
 ## 🛠️ Tech & Tools
 **Frontend:** React, Vue, Tailwind CSS, HTML5, CSS3  
@@ -27,9 +27,8 @@ const developer = {
 
 ## 📈 Achievements
 
-* 🚀 Completed [number] real-world projects from idea to deployment.
-* 🌟 Contributed to [open source project name, if any] or built [feature name] in BusTicket.
-* 🏆 [Awards, certificates, e.g., "AWS Certified Developer" or "Top 10 Hackathon X"].
+* 🚀 Completed 2 real-world projects from idea to deployment.
+* 🌟 Contributed to building features such as chatbot, using API for displaying maps and locating departure - destination points in BusTicket.
 
 ## 📫 Contact
 

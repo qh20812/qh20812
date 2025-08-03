@@ -19,7 +19,7 @@ const developer = {
 * [BusTicket System](https://github.com/qh20812/BusTicket.git): Hệ thống đặt vé xe khách trực tuyến được xây dựng bằng ASP.NET Core.
 * [FriendChat](https://github.com/qh20812/friend-chat.git): Mạng xã hội nhắn tin thời gian thực, hỗ trợ chat cá nhân/nhóm, đăng bài, tương tác, quản lý bạn bè, thông báo real-time, shop, đa ngôn ngữ và nhiều tính năng mở rộng.
 ### 🔍 Đam mê: Tối ưu hóa hiệu suất, thiết kế UI/UX trực quan, và áp dụng công nghệ mới.
-### 📚 Học vấn: [Sinh viên IT tại Đại học X / Tự học qua các dự án thực tế].
+### 📚 Học vấn: Học viên tại VTC Academy.
 
 ## 🛠️ Công nghệ & Công cụ
 **Frontend:** React, Vue, Tailwind CSS, HTML5, CSS3  
@@ -29,9 +29,8 @@ const developer = {
 
 ## 📈 Thành tựu
 
-* 🚀 Hoàn thành [số lượng] dự án thực tế, từ ý tưởng đến triển khai.
-* 🌟 Đóng góp vào [tên dự án mã nguồn mở, nếu có] hoặc xây dựng [tên tính năng] trong BusTicket.
-* 🏆 [Giải thưởng, chứng chỉ, ví dụ: "Chứng chỉ AWS Certified Developer" hoặc "Top 10 Hackathon X"].
+* 🚀 Hoàn thành 2 dự án thực tế, từ ý tưởng đến triển khai.
+* 🌟 Đóng góp vào việc xây dựng các tính năng như chatbot, sử dụng API cho việc hiển thị map và định vị điểm đi - điểm đến trong BusTicket.
 
 ## 📫 Liên hệ
 
