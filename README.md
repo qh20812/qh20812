@@ -1,4 +1,6 @@
 # 👋 Xin chào! Tôi là [Tên của bạn] 🚀
+
+🇬🇧 [English](./README.en.md)
 ```javascript
 // Fullstack Web Developer crafting scalable, user-centric web applications
 const developer = {
