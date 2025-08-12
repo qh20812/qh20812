@@ -17,7 +17,7 @@ const developer = {
 ### 💻 Chuyên môn: Phát triển fullstack từ giao diện người dùng (React, Tailwind CSS) đến backend mạnh mẽ (Node.js, ASP.NET Core, Django).
 ### 🛠️ Dự án nổi bật:
 * [BusTicket System](https://github.com/qh20812/BusTicket.git): Hệ thống đặt vé xe khách trực tuyến được xây dựng bằng ASP.NET Core.
-* [FriendChat](https://github.com/qh20812/friend-chat.git): Mạng xã hội nhắn tin thời gian thực, hỗ trợ chat cá nhân/nhóm, đăng bài, tương tác, quản lý bạn bè, thông báo real-time, shop, đa ngôn ngữ và nhiều tính năng mở rộng.
+* [Edu Core](https://github.com/qh20812/Edu_Core.git): Nền tảng học tập trực tuyến với các tính năng như quản lý khóa học, bài tập, và đánh giá.
 ### 🔍 Đam mê: Tối ưu hóa hiệu suất, thiết kế UI/UX trực quan, và áp dụng công nghệ mới.
 ### 📚 Học vấn: Học viên tại VTC Academy.
 
@@ -35,7 +35,7 @@ const developer = {
 ## 📫 Liên hệ
 
 
-📧 Email: qh20812@gmail.com  
+📧 Email: [qh20812@gmail.com](mailto:qh20812@gmail.com)  
 🐙 GitHub: [github.com/qh20812](https://github.com/qh20812)
 
 

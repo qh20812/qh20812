@@ -17,7 +17,7 @@ const developer = {
 ### 💻 Expertise: Fullstack development from user interface (React, Tailwind CSS) to robust backend (Node.js, ASP.NET Core, Django).
 ### 🛠️ Featured Projects:
 * [BusTicket System](https://github.com/qh20812/BusTicket.git): Online bus ticket booking system built with ASP.NET Core.
-* [FriendChat](https://github.com/qh20812/friend-chat.git): Real-time social messaging app supporting personal/group chat, posts, interactions, friend management, real-time notifications, shop, multi-language, and many advanced features.
+* [Edu Core](https://github.com/qh20812/Edu_Core.git): Online learning platform with features like course management, assignments, and assessments.
 ### 🔍 Passion: Performance optimization, intuitive UI/UX design, and adopting new technologies.
 ### 📚 Education: Student at VTC Academy.
 
@@ -34,7 +34,7 @@ const developer = {
 
 ## 📫 Contact
 
-📧 Email: qh20812@gmail.com  
+📧 Email: [qh20812@gmail.com](mailto:qh20812@gmail.com)
 🐙 GitHub: [github.com/qh20812](https://github.com/qh20812)
 
 ```python
