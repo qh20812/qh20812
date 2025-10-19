@@ -6,7 +6,7 @@
 const developer = {
   name: "Huynh Ngoc Qui",
   role: "Fullstack Web Developer",
-  techStack: ["JavaScript", "React", "Node.js", "ASP.NET Core", "Python", "Tailwind CSS", "MongoDB", "SQL"],
+  techStack: ["JavaScript", "React", "Node.js", "ASP.NET Core", "Tailwind CSS", "MongoDB", "SQL"],
   mission: "Building seamless digital experiences with clean code & modern design 🌟",
   current: "Exploring Next.js, GraphQL, and cloud solutions",
 };
@@ -14,16 +14,16 @@ const developer = {
 
 ## 🌐 About Me
 
-### 💻 Expertise: Fullstack development from user interface (React, Tailwind CSS) to robust backend (Node.js, ASP.NET Core, Django).
+### 💻 Expertise: Fullstack development from user interface (React, Tailwind CSS) to robust backend (Node.js, ASP.NET Core, Next.js).
 ### 🛠️ Featured Projects:
 * [BusTicket System](https://github.com/qh20812/BusTicket.git): Online bus ticket booking system built with ASP.NET Core.
-* [Edu Core](https://github.com/qh20812/Edu_Core.git): Online learning platform with features like course management, assignments, and assessments.
+* [ShopNest](https://github.com/qh20812/Shop_Nest.git): Online learning platform with features like course management, assignments, and assessments.
 ### 🔍 Passion: Performance optimization, intuitive UI/UX design, and adopting new technologies.
 ### 📚 Education: Student at VTC Academy.
 
 ## 🛠️ Tech & Tools
-**Frontend:** React, Vue, Tailwind CSS, HTML5, CSS3  
-**Backend:** Node.js, Express, ASP.NET Core, Django  
+**Frontend:** React, Tailwind CSS, HTML5, CSS3  
+**Backend:** Node.js, Express, ASP.NET Core, Next.js  
 **Database:** MongoDB, MySQL, PostgreSQL  
 **Tools:** Git, Docker, VS Code, GitHub Actions
 
